@@ -1,0 +1,28 @@
+{
+	"name": "google-auth-cli",
+	"version": "0.0.1",
+	"description": "A module help you to let user authenticate their google account from command line",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "",
+	"keywords": [],
+	"dependencies": {
+		"googleapis": "~0.4.5",
+		"inquirer": "~0.3.5",
+		"colors": "~0.6.2",
+		"open": "~0.0.4"
+	},
+	"devDependencies": {
+		"jshint": "~2.1.9",
+		"mocha": "~1.12.0",
+		"chai": "~1.7.2"
+	},
+	"readmeFilename": "README.md",
+	"author": {
+		"name": "wei.gao",
+		"email": "jky239@gmail.com"
+	},
+	"license": "MIT"
+}
